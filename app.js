@@ -169,7 +169,7 @@ Thank you!
     alert(
       "The contact form is ready!\n\n" +
       "To receive inquiries, open app.js and replace " +
-      '"YOUR_EMAIL@example.com" with your actual business email.'
+      '"ivanlogong@gmail.com" with your actual business email.'
     );
   }
 });
